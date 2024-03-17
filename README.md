@@ -7,3 +7,6 @@ With FormFiller installed, users can enjoy the convenience of autofilling forms 
 # Future Updates: Enhancing User Interface and Functionality
 
 In this version, some types of inputs, such as selection tags, are not yet fully functional. However, in the next update, these features will be implemented, ensuring a more comprehensive and seamless user experience. Additionally, I am committed to improving the user interface to make it more intuitive and user-friendly.
+
+# Link to learn more about the code
+https://medium.com/@aryanpandit1718/solving-the-chrome-extension-button-click-challenge-a-simple-guide-20696836511f
