@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "Random Form Autofill Extension",
+  "version": "2.0",
+  "description": "Automatically fills form fields with random values.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>","http://*/*", "https://*/*"],
+      "js": ["popup.js"]
+    }
+  ],
+  "host_permissions": [
+    "*://*/*"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["popup.html","main.js"],
+      "matches": ["<all_urls>","http://*/*", "https://*/*"]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
