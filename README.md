@@ -6,4 +6,4 @@ With FormFiller installed, users can enjoy the convenience of autofilling forms 
 
 # Future Updates: Enhancing User Interface and Functionality
 
-In this version, some types of inputs, such as selection tags, are not yet fully functional. However, in the next update, these features will be implemented, ensuring a more comprehensive and seamless user experience. Additionally, we are committed to improving the user interface to make it more intuitive and user-friendly. Stay tuned for these exciting updates, which will further enhance the performance and usability of the extension.
+In this version, some types of inputs, such as selection tags, are not yet fully functional. However, in the next update, these features will be implemented, ensuring a more comprehensive and seamless user experience. Additionally, I am committed to improving the user interface to make it more intuitive and user-friendly.
